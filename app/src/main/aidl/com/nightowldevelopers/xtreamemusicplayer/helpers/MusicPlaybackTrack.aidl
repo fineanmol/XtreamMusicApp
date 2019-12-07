@@ -1,0 +1,3 @@
+package com.nightowldevelopers.xtreamemusicplayer.helpers;
+
+parcelable MusicPlaybackTrack;
